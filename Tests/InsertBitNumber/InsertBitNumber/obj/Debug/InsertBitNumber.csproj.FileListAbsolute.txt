@@ -1,0 +1,6 @@
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\InsertBitNumber\InsertBitNumber\bin\Debug\InsertBitNumber.dll
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\InsertBitNumber\InsertBitNumber\bin\Debug\InsertBitNumber.pdb
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\InsertBitNumber\InsertBitNumber\obj\Debug\InsertBitNumber.csproj.AssemblyReference.cache
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\InsertBitNumber\InsertBitNumber\obj\Debug\InsertBitNumber.csproj.CoreCompileInputs.cache
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\InsertBitNumber\InsertBitNumber\obj\Debug\InsertBitNumber.dll
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\InsertBitNumber\InsertBitNumber\obj\Debug\InsertBitNumber.pdb

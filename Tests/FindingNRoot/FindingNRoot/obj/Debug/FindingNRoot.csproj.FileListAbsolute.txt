@@ -1,0 +1,6 @@
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\FindingNRoot\FindingNRoot\bin\Debug\FindingNRoot.dll
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\FindingNRoot\FindingNRoot\bin\Debug\FindingNRoot.pdb
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\FindingNRoot\FindingNRoot\obj\Debug\FindingNRoot.csproj.AssemblyReference.cache
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\FindingNRoot\FindingNRoot\obj\Debug\FindingNRoot.csproj.CoreCompileInputs.cache
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\FindingNRoot\FindingNRoot\obj\Debug\FindingNRoot.dll
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\FindingNRoot\FindingNRoot\obj\Debug\FindingNRoot.pdb

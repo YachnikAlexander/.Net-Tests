@@ -1,0 +1,6 @@
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\PolinomialExtension\PolinomialExtension\bin\Debug\PolinomialExtension.dll
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\PolinomialExtension\PolinomialExtension\bin\Debug\PolinomialExtension.pdb
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\PolinomialExtension\PolinomialExtension\obj\Debug\PolinomialExtension.csproj.AssemblyReference.cache
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\PolinomialExtension\PolinomialExtension\obj\Debug\PolinomialExtension.csproj.CoreCompileInputs.cache
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\PolinomialExtension\PolinomialExtension\obj\Debug\PolinomialExtension.dll
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\PolinomialExtension\PolinomialExtension\obj\Debug\PolinomialExtension.pdb

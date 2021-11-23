@@ -1,0 +1,6 @@
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\ConvertStringToNumber\ConvertStringToNumber\bin\Debug\ConvertStringToNumber.dll
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\ConvertStringToNumber\ConvertStringToNumber\bin\Debug\ConvertStringToNumber.pdb
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\ConvertStringToNumber\ConvertStringToNumber\obj\Debug\ConvertStringToNumber.csproj.AssemblyReference.cache
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\ConvertStringToNumber\ConvertStringToNumber\obj\Debug\ConvertStringToNumber.csproj.CoreCompileInputs.cache
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\ConvertStringToNumber\ConvertStringToNumber\obj\Debug\ConvertStringToNumber.dll
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\ConvertStringToNumber\ConvertStringToNumber\obj\Debug\ConvertStringToNumber.pdb

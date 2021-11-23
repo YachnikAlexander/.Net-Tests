@@ -1,0 +1,6 @@
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\BinarySearchTree\BinarySearchTree\bin\Debug\BinarySearchTree.dll
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\BinarySearchTree\BinarySearchTree\bin\Debug\BinarySearchTree.pdb
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.csproj.AssemblyReference.cache
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.csproj.CoreCompileInputs.cache
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.dll
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.pdb

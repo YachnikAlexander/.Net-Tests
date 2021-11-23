@@ -1,0 +1,6 @@
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\CustomeFormat\CustomeFormat\bin\Debug\CustomeFormat.dll
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\CustomeFormat\CustomeFormat\bin\Debug\CustomeFormat.pdb
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\CustomeFormat\CustomeFormat\obj\Debug\CustomeFormat.csproj.AssemblyReference.cache
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\CustomeFormat\CustomeFormat\obj\Debug\CustomeFormat.csproj.CoreCompileInputs.cache
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\CustomeFormat\CustomeFormat\obj\Debug\CustomeFormat.dll
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\CustomeFormat\CustomeFormat\obj\Debug\CustomeFormat.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindingNRoot", "FindingNRoot\FindingNRoot.csproj", "{1E5866DB-43F0-4B8A-985A-8D5CC6168372}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewtonMethodTests", "NewtonMethodTests\NewtonMethodTests.csproj", "{8AEF3F00-E701-497B-8892-CFE062EFBDCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E5866DB-43F0-4B8A-985A-8D5CC6168372}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E5866DB-43F0-4B8A-985A-8D5CC6168372}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E5866DB-43F0-4B8A-985A-8D5CC6168372}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E5866DB-43F0-4B8A-985A-8D5CC6168372}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AEF3F00-E701-497B-8892-CFE062EFBDCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AEF3F00-E701-497B-8892-CFE062EFBDCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AEF3F00-E701-497B-8892-CFE062EFBDCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AEF3F00-E701-497B-8892-CFE062EFBDCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F5ED72A-4048-4227-A936-CE9599EE5A9C}
+	EndGlobalSection
+EndGlobal

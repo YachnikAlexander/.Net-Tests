@@ -1,0 +1,16 @@
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\FindNumber\FindNumberTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\FindNumber\FindNumberTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\FindNumber\FindNumberTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\FindNumber\FindNumberTests\bin\Debug\FindNumberTests.dll
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\FindNumber\FindNumberTests\bin\Debug\FindNumberTests.pdb
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\FindNumber\FindNumberTests\bin\Debug\FindNumber.dll
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\FindNumber\FindNumberTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\FindNumber\FindNumberTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\FindNumber\FindNumberTests\bin\Debug\FindNumber.pdb
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\FindNumber\FindNumberTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\FindNumber\FindNumberTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\FindNumber\FindNumberTests\obj\Debug\FindNumberTests.csproj.AssemblyReference.cache
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\FindNumber\FindNumberTests\obj\Debug\FindNumberTests.csproj.CoreCompileInputs.cache
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\FindNumber\FindNumberTests\obj\Debug\FindNumberTests.csproj.CopyComplete
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\FindNumber\FindNumberTests\obj\Debug\FindNumberTests.dll
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\FindNumber\FindNumberTests\obj\Debug\FindNumberTests.pdb

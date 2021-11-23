@@ -1,0 +1,6 @@
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\FindNumber\FindNumber\bin\Debug\FindNumber.dll
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\FindNumber\FindNumber\bin\Debug\FindNumber.pdb
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\FindNumber\FindNumber\obj\Debug\FindNumber.csproj.AssemblyReference.cache
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\FindNumber\FindNumber\obj\Debug\FindNumber.csproj.CoreCompileInputs.cache
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\FindNumber\FindNumber\obj\Debug\FindNumber.dll
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\FindNumber\FindNumber\obj\Debug\FindNumber.pdb

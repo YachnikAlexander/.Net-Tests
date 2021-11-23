@@ -1,0 +1,16 @@
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\InsertBitNumber\BitInsert.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\InsertBitNumber\BitInsert.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\InsertBitNumber\BitInsert.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\InsertBitNumber\BitInsert.Test\bin\Debug\BitInsert.Test.dll
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\InsertBitNumber\BitInsert.Test\bin\Debug\BitInsert.Test.pdb
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\InsertBitNumber\BitInsert.Test\bin\Debug\InsertBitNumber.dll
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\InsertBitNumber\BitInsert.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\InsertBitNumber\BitInsert.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\InsertBitNumber\BitInsert.Test\bin\Debug\InsertBitNumber.pdb
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\InsertBitNumber\BitInsert.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\InsertBitNumber\BitInsert.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\InsertBitNumber\BitInsert.Test\obj\Debug\BitInsert.Test.csproj.AssemblyReference.cache
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\InsertBitNumber\BitInsert.Test\obj\Debug\BitInsert.Test.csproj.CoreCompileInputs.cache
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\InsertBitNumber\BitInsert.Test\obj\Debug\BitInsert.Test.csproj.CopyComplete
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\InsertBitNumber\BitInsert.Test\obj\Debug\BitInsert.Test.dll
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\InsertBitNumber\BitInsert.Test\obj\Debug\BitInsert.Test.pdb

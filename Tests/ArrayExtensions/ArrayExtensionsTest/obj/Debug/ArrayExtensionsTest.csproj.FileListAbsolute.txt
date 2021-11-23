@@ -1,0 +1,16 @@
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\ArrayExtensions\ArrayExtensionsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\ArrayExtensions\ArrayExtensionsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\ArrayExtensions\ArrayExtensionsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\ArrayExtensions\ArrayExtensionsTest\bin\Debug\ArrayExtensionsTest.dll
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\ArrayExtensions\ArrayExtensionsTest\bin\Debug\ArrayExtensionsTest.pdb
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\ArrayExtensions\ArrayExtensionsTest\bin\Debug\ArrayExtensions.dll
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\ArrayExtensions\ArrayExtensionsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\ArrayExtensions\ArrayExtensionsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\ArrayExtensions\ArrayExtensionsTest\bin\Debug\ArrayExtensions.pdb
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\ArrayExtensions\ArrayExtensionsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\ArrayExtensions\ArrayExtensionsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\ArrayExtensions\ArrayExtensionsTest\obj\Debug\ArrayExtensionsTest.csproj.AssemblyReference.cache
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\ArrayExtensions\ArrayExtensionsTest\obj\Debug\ArrayExtensionsTest.csproj.CoreCompileInputs.cache
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\ArrayExtensions\ArrayExtensionsTest\obj\Debug\ArrayExtensionsTest.csproj.CopyComplete
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\ArrayExtensions\ArrayExtensionsTest\obj\Debug\ArrayExtensionsTest.dll
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\ArrayExtensions\ArrayExtensionsTest\obj\Debug\ArrayExtensionsTest.pdb

@@ -1,0 +1,6 @@
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\ArrayExtensions\ArrayExtensions\bin\Debug\ArrayExtensions.dll
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\ArrayExtensions\ArrayExtensions\bin\Debug\ArrayExtensions.pdb
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\ArrayExtensions\ArrayExtensions\obj\Debug\ArrayExtensions.csproj.AssemblyReference.cache
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\ArrayExtensions\ArrayExtensions\obj\Debug\ArrayExtensions.csproj.CoreCompileInputs.cache
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\ArrayExtensions\ArrayExtensions\obj\Debug\ArrayExtensions.dll
+C:\Users\AlexanderYachnik\Desktop\Automatic tests\Tests\ArrayExtensions\ArrayExtensions\obj\Debug\ArrayExtensions.pdb
